@@ -1,0 +1,38 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-std=c11",
+      "-pedantic",
+      "-ggdb",
+      "-DPL_LOGGING",
+      "-o",
+      "build/panlib",
+      "src/main.c"
+    ],
+    "directory": "/home/thepanable/Dev/personal/panlib",
+    "file": "/home/thepanable/Dev/personal/panlib/src/main.c",
+    "output": "/home/thepanable/Dev/personal/panlib/build/panlib"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-std=c11",
+      "-pedantic",
+      "-ggdb",
+      "-DPL_LOGGING",
+      "-o",
+      "build/panlib",
+      "src/pl_utils.c"
+    ],
+    "directory": "/home/thepanable/Dev/personal/panlib",
+    "file": "/home/thepanable/Dev/personal/panlib/src/pl_utils.c",
+    "output": "/home/thepanable/Dev/personal/panlib/build/panlib"
+  }
+]
